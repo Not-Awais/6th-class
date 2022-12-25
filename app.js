@@ -2,7 +2,6 @@
 
 // var student = "awais"
 
-
 // let str = "Hello India";
 
 // let split_str = str.split("");
@@ -38,7 +37,6 @@
 
 // console.log(arryOfStudents);
 
-
 // var nam = "awais";
 
 // var split = nam.split("");
@@ -48,5 +46,38 @@
 
 // console.log(join);
 
+// var palindromWord = prompt("Enter your word");
+
+// var split = palindromWord.split("");
+
+// var reverse = split.reverse();
+
+// var join = reverse.join("");
+
+// if (join === palindromWord) {
+//   alert(palindromWord + " is palindrome word")
+// } else {
+//   alert(palindromWord + " is not a palindrome word");
+// }
 
 
+// ["m", "a", "d", "a", "m"];
+// ["m", "a", "d", "a", "m"];
+
+
+
+// document.write("<h1> Marks sheet </h1>")
+
+
+
+// for loop
+
+for (var i = 0; i < 1000; i++){
+  document.write("hello" + i +  "<br>");
+}
+
+// document.write("hello" + "<br>");
+// document.write("hello" + "<br>");
+// document.write("hello" + "<br>");
+// document.write("hello" + "<br>");
+// document.write("hello");
